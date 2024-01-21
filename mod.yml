@@ -1,0 +1,35 @@
+
+title: Consistent Localization II Final Mix
+originalAuthor: Superfield
+description: Part of a mod series intended to reduce inconsistencies between the English localizations.
+assets:
+
+- name: msg/us/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: en
+
+- name: msg/us/gumi.bar
+  method: binarc
+  source:
+  - name: gumi
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/gumi.yml
+      language: en
+
+- name: msg/us/jm.bar
+  method: binarc
+  source:
+  - name: jm
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/jm.yml
+      language: en

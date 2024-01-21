@@ -1,0 +1,718 @@
+# Reaction Commands
+
+- id: 0x1E4C
+  en: "Move Center"
+
+- id: 0x3EA4
+  en: "Firaza"
+
+- id: 0x3EA5
+  en: "Blizzaza"
+
+- id: 0x4BE4
+  en: "Firaza"
+
+- id: 0x4BE5
+  en: "Blizzaza"
+
+# Abilities
+
+- id: 0x066C
+  en: "Block"
+
+- id: 0x066D
+  en: "Guards and shoots back enemy attacks
+    
+    using a parrying action with {:icon dynamic-square}."
+
+- id: 0x1E60
+  en: "Rising Slash"
+
+- id: 0x4659
+  en: "Rising Combo"
+
+- id: 0x39A1
+  en: "Payback Slash"
+
+- id: 0x465D
+  en: "Payback Smash"
+
+- id: 0x398F
+  en: "Sliding Dash"
+
+- id: 0x3991
+  en: "Stride Break"
+
+- id: 0x3997
+  en: "Counter Strike"
+
+- id: 0x3998
+  en: "Counterattacks nearby enemies with
+    
+    Attack while performing Block."
+
+- id: 0x0654
+  en: "Air Slide LV1"
+
+- id: 0x0656
+  en: "Air Slide LV2"
+
+- id: 0x0658
+  en: "Air Slide LV3"
+
+- id: 0x065A
+  en: "Air Slide MAX"
+
+- id: 0x4E83
+  en: "Dodge Roll LV1"
+
+- id: 0x4E85
+  en: "Dodge Roll LV2"
+
+- id: 0x4E87
+  en: "Dodge Roll LV3"
+
+- id: 0x4E99
+  en: "Hurricane Blast"
+
+- id: 0x4F65
+  en: "Counter Zantetsu"
+
+- id: 0x4F66
+  en: "Unleashes Zantetsuken by selecting
+    
+    Attack while blocking."
+
+- id: 0x3BF0
+  en: "EXP Zero"
+
+- id: 0x3BDC
+  en: "Combo Minus"
+
+- id: 0x3BE0
+  en: "Drive Syphon"
+
+- id: 0x3BEA
+  en: "EXP Chance"
+
+- id: 0x3BF2
+  en: "Treasure Magnet"
+
+- id: 0x3BF6
+  en: "Lucky Strike"
+
+- id: 0x3C00
+  en: "MP Syphon"
+
+- id: 0x330B
+  en: "Furious Bellow"
+
+- id: 0x3C98
+  en: "Ferocious Lunge"
+
+- id: 0x3345
+  en: "Applause, Please!"
+
+- id: 0x3CBC
+  en: "Bone Crusher"
+
+- id: 0x500D
+  en: "Protera"
+
+- id: 0x500F
+  en: "Protega"
+
+- id: 0x3B94
+  en: "Faith"
+
+# Limits
+
+- id: 0x4311
+  en: "Arcanum"
+
+- id: 0x4313
+  en: "Ragnarok"
+
+- id: 0x4E8D
+  en: "Sonic Blade"
+
+- id: 0x4E8F
+  en: "Ars Arcanum"
+
+- id: 0x4E93
+  en: "Ragnarok"
+
+- id: 0x4EF6
+  en: "Ragnarok"
+
+- id: 0x4EFE
+  en: "Sonic Blade"
+
+- id: 0x4F00
+  en: "Blast"
+
+- id: 0x4F01
+  en: "Ars Arcanum"
+
+- id: 0x4F03
+  en: "Finish"
+
+# Items
+
+- id: 0x39DD
+  en: "Strength Boost"
+
+- id: 0x39DB
+  en: "Hi-Drive Recovery"
+
+- id: 0x3AB0
+  en: "{:width 90}A gem fragment filled with fire.
+    
+    A very common ingredient of item synthesis."
+
+- id: 0x3AB6
+  en: "{:width 90}A mysterious crystal abundant with fire.
+    
+    A very rare ingredient of item synthesis."
+
+- id: 0x3B6A
+  en: "{:width 90}A gem fragment filled with ice.
+    
+    A very common ingredient of item synthesis."
+
+- id: 0x3B70
+  en: "{:width 90}A mysterious crystal abundant with ice.
+    
+    A very rare ingredient of item synthesis."
+
+- id: 0x3AC0
+  en: "{:width 90}A gem fragment filled with lightning.
+    
+    A very common ingredient of item synthesis."
+
+- id: 0x3AC6
+  en: "{:width 90}A mysterious crystal abundant with lightning.
+    
+    A very rare ingredient of item synthesis."
+
+- id: 0x3AD0
+  en: "{:width 90}A gem fragment filled with brilliance.
+    
+    A very common ingredient of item synthesis."
+
+- id: 0x3AD6
+  en: "{:width 90}A mysterious crystal abundant with brilliance.
+    
+    A very rare ingredient of item synthesis."
+
+- id: 0x3AC7
+  en: "Pulsing Shard"
+
+- id: 0x3AC8
+  en: "{:width 90}A gem fragment filled with power.
+    
+    A very common ingredient of item synthesis.
+    
+    Some call it a Power Shard."
+
+- id: 0x3AC9
+  en: "Pulsing Stone"
+
+- id: 0x3ACA
+  en: "A stone filled with power.
+    
+    A common ingredient of item synthesis.
+    
+    Some call it a Power Stone."
+
+- id: 0x3ACB
+  en: "Pulsing Gem"
+
+- id: 0x3ACC
+  en: "A gem abundant with power.
+    
+    A rare ingredient of item synthesis.
+    
+    Some call it a Power Gem."
+
+- id: 0x3ACD
+  en: "Pulsing Crystal"
+
+- id: 0x3ACE
+  en: "{:width 90}A mysterious crystal abundant with power.
+    
+    A very rare ingredient of item synthesis.
+    
+    Some call it a Power Crystal."
+
+- id: 0x39E7
+  en: "Writhing Shard"
+
+- id: 0x39E8
+  en: "{:width 90}A gem fragment filled with darkness.
+    
+    A very common ingredient of item synthesis.
+    
+    Some call it a Dark Shard."
+
+- id: 0x39E9
+  en: "Writhing Stone"
+
+- id: 0x39EA
+  en: "A stone filled with darkness.
+    
+    A common ingredient of item synthesis.
+    
+    Some call it a Dark Stone."
+
+- id: 0x39EB
+  en: "Writhing Gem"
+
+- id: 0x39EC
+  en: "A gem abundant with darkness.
+    
+    A rare ingredient of item synthesis.
+    
+    Some call it a Dark Gem."
+
+- id: 0x39ED
+  en: "Writhing Crystal"
+
+- id: 0x39EE
+  en: "{:width 90}A mysterious crystal abundant with darkness.
+    
+    A very rare ingredient of item synthesis.
+    
+    Some call it a Dark Crystal."
+
+- id: 0x3AD7
+  en: "Betwixt Shard"
+
+- id: 0x3AD8
+  en: "{:width 90}A gem fragment filled with ambiguity.
+    
+    A very common ingredient of item synthesis.
+    
+    Some call it a Dense Shard."
+
+- id: 0x3AD9
+  en: "Betwixt Stone"
+
+- id: 0x3ADA
+  en: "A stone filled with ambiguity.
+    
+    A common ingredient of item synthesis.
+    
+    Some call it a Dense Stone."
+
+- id: 0x3ADB
+  en: "Betwixt Gem"
+
+- id: 0x3ADC
+  en: "A gem filled with ambiguity.
+    
+    A rare ingredient of item synthesis.
+    
+    Some call it a Dense Gem."
+
+- id: 0x3ADD
+  en: "Betwixt Crystal"
+
+- id: 0x3ADE
+  en: "{:width 90}A mysterious crystal filled with ambiguity.
+    
+    A very rare ingredient of item synthesis.
+    
+    Some call it a Dense Crystal."
+
+- id: 0x3AE0
+  en: "{:width 90}A gem fragment filled with twilight.
+    
+    A very common ingredient of item synthesis."
+
+- id: 0x3AE6
+  en: "{:width 90}A mysterious crystal filled with twilight.
+    
+    A very rare ingredient of item synthesis."
+
+- id: 0x3AE8
+  en: "{:width 90}A fragment of mythril ore.
+    
+    A very common ingredient of item synthesis."
+
+- id: 0x3AEE
+  en: "{:width 90}A mysterious crystal made from mythril ore.
+    
+    A very rare ingredient of item synthesis."
+
+- id: 0x3AEF
+  en: "Soothing Shard"
+
+- id: 0x3AF0
+  en: "{:width 90}A gem fragment filled with vitality.
+    
+    A very common ingredient of item synthesis.
+    
+    Some call it a Bright Shard."
+
+- id: 0x3AF1
+  en: "Soothing Stone"
+
+- id: 0x3AF2
+  en: "A stone filled with vitality.
+    
+    A common ingredient of item synthesis.
+    
+    Some call it a Bright Stone."
+
+- id: 0x3AF3
+  en: "Soothing Gem"
+
+- id: 0x3AF4
+  en: "A gem abundant with vitality.
+    
+    A rare ingredient of item synthesis.
+    
+    Some call it a Bright Gem."
+
+- id: 0x3AF5
+  en: "Soothing Crystal"
+
+- id: 0x3AF6
+  en: "{:width 90}A mysterious crystal abundant with vitality.
+    
+    A very rare ingredient of item synthesis.
+    
+    Some call it a Bright Crystal."
+
+- id: 0x3AF7
+  en: "Wellspring Shard"
+
+- id: 0x3AF8
+  en: "{:width 90}A gem fragment filled with courage.
+    
+    A very common ingredient of item synthesis.
+    
+    Some call it a Energy Shard."
+
+- id: 0x3AF9
+  en: "Wellspring Stone"
+
+- id: 0x3AFA
+  en: "A stone filled with courage.
+    
+    A common ingredient of item synthesis.
+    
+    Some call it a Energy Stone."
+
+- id: 0x3AFB
+  en: "Wellspring Gem"
+
+- id: 0x3AFC
+  en: "A gem abundant with courage.
+    
+    A rare ingredient of item synthesis.
+    
+    Some call it a Energy Gem."
+
+- id: 0x3AFD
+  en: "Wellspring Crystal"
+
+- id: 0x3AFE
+  en: "{:width 90}A mysterious crystal abundant with courage.
+    
+    A very rare ingredient of item synthesis.
+    
+    Some call it a Energy Crystal."
+
+- id: 0x3AFF
+  en: "Hungry Shard"
+
+- id: 0x3B00
+  en: "{:width 90}A gem fragment filled with longing.
+    
+    A very common ingredient of item synthesis.
+    
+    Some call it a Serenity Shard."
+
+- id: 0x3B01
+  en: "Hungry Stone"
+
+- id: 0x3B02
+  en: "A stone filled with longing.
+    
+    A common ingredient of item synthesis.
+    
+    Some call it a Serenity Stone."
+
+- id: 0x3B03
+  en: "Hungry Gem"
+
+- id: 0x3B04
+  en: "A gem filled with longing.
+    
+    A rare ingredient of item synthesis.
+    
+    Some call it a Serenity Gem."
+
+- id: 0x3B05
+  en: "Hungry Crystal"
+
+- id: 0x3B06
+  en: "{:width 90}A mysterious crystal filled with longing.
+    
+    A very rare ingredient of item synthesis.
+    
+    Some call it a Serenity Crystal."
+
+- id: 0x4EE0
+  en: "{:width 90}A gem shard filled with remembrance.
+    
+    A very common ingredient of item synthesis."
+
+- id: 0x4EE6
+  en: "{:width 90}A mysterious crystal abundant with remembrance.
+    
+    A very rare ingredient of item synthesis."
+
+- id: 0x4EE8
+  en: "{:width 90}A gem shard filled with tranquility.
+    
+    A very common ingredient of item synthesis."
+
+- id: 0x4EEE
+  en: "{:width 90}A mysterious crystal abundant with tranquility.
+    
+    A very rare ingredient of item synthesis."
+
+# Menus
+
+- id: 0x3E65
+  en: "{:width 90}Use {:icon gem-bright}soothing & {:icon gem-energy}wellspring materials!"
+
+- id: 0x3E66
+  en: "Use {:icon gem-serenity}hungry materials!"
+
+- id: 0x3E67
+  en: "Use up to two extra materials!"
+
+- id: 0x3E68
+  en: "Rank {:icon rank-c} recipe materials cut by half!"
+
+- id: 0x3E69
+  en: "Rank {:icon rank-b} recipe materials cut by half!"
+
+- id: 0x3E6A
+  en: "Rank {:icon rank-a} recipe materials cut by half!"
+
+- id: 0x3E6C
+  en: "Rank {:icon rank-s} recipe materials cut by half!"
+
+- id: 0x3E6E
+  en: "Get 1 type of material."
+
+- id: 0x3E6F
+  en: "Get 5 types of materials."
+
+- id: 0x3E70
+  en: "Get 10 types of materials."
+
+- id: 0x3E71
+  en: "Get 15 types of materials."
+
+- id: 0x3E72
+  en: "Get 20 types of materials."
+
+- id: 0x3E73
+  en: "Get 25 types of materials."
+
+- id: 0x3E74
+  en: "Get 30 types of materials."
+
+- id: 0x3E75
+  en: "Get 35 types of materials."
+
+- id: 0x3E76
+  en: "Get 40 types of materials."
+
+- id: 0x3E77
+  en: "Get 45 types of materials."
+
+- id: 0x3E78
+  en: "Get all materials."
+
+- id: 0x3E7E
+  en: "Obtain all {:icon gem-dense}betwixt materials."
+
+- id: 0x3E7F
+  en: "Obtain all {:icon gem-twilight}twilight materials."
+
+- id: 0x3E80
+  en: "Obtain all {:icon gem-mythril}mythril materials."
+
+- id: 0x3E81
+  en: "Obtain all {:icon gem-bright}soothing materials."
+
+- id: 0x3E82
+  en: "Obtain all {:icon gem-energy}wellspring materials."
+
+- id: 0x3E83
+  en: "Obtain all {:icon gem-serenity}hungry materials."
+
+- id: 0x3E84
+  en: "Obtain all rank {:icon rank-c} materials."
+
+- id: 0x3E85
+  en: "Obtain all rank {:icon rank-b} materials."
+
+- id: 0x3E86
+  en: "Obtain all rank {:icon rank-a} materials."
+
+- id: 0x3E87
+  en: "Obtain all rank {:icon rank-s} materials."
+
+- id: 0x3E88
+  en: "Obtain 30 or more {:icon gem-dark}Writhing Shards."
+
+- id: 0x3E8C
+  en: "Obtain 30 or more {:icon gem-power}Pulsing Shards."
+
+- id: 0x3E8E
+  en: "Obtain 30 or more {:icon gem-dense}Betwixt Shards."
+
+- id: 0x3E90
+  en: "Obtain 25 or more {:icon gem-dark}Writhing Stones."
+
+- id: 0x3E94
+  en: "Obtain 25 or more {:icon gem-power}Pulsing Stones."
+
+- id: 0x3E96
+  en: "Obtain 25 or more {:icon gem-dense}Betwixt Stones."
+
+- id: 0x3E98
+  en: "Obtain 20 or more {:icon gem-dark}Writhing Gems."
+
+- id: 0x3E9C
+  en: "Obtain 20 or more {:icon gem-power}Pulsing Gems."
+
+- id: 0x3E9E
+  en: "Obtain 20 or more {:icon gem-dense}Betwixt Gems."
+
+- id: 0x3EF4
+  en: "{:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+    
+    
+    
+    {:color #FFFF0080}{:icon gem-serenity}Hungry{:reset} materials
+    
+    are needed to synthesize this item.
+    
+    Check {:color #FFFF0080}{:icon gem-serenity}hungry{:reset} materials to continue."
+
+- id: 0x3EF5
+  en: "{:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
+    
+    
+    
+    Not enough materials. Synthesis can be
+    
+    performed by checking {:color #FFFF0080}{:icon gem-energy}wellspring{:reset} materials.
+    
+    Please check {:color #FFFF0080}{:icon gem-energy}wellspring{:reset} materials to
+    
+    continue."
+
+- id: 0x3F1F
+  en: "Lessens necessary amount of 
+    
+    materials by half."
+
+- id: 0x405F
+  en: "{:color #FFFF0080}Can use {:icon gem-bright}soothing & {:icon gem-energy}wellspring materials!
+    
+    
+    
+    Use when synthesizing items!"
+
+- id: 0x4060
+  en: "{:color #FFFF0080}Can use {:icon gem-serenity}hungry materials!{:reset}
+    
+    Use in old creations found in Creations!"
+
+- id: 0x4061
+  en: "{:color #FFFF0080}Can use up to two extra materials!{:reset}"
+
+- id: 0x4062
+  en: "{:color #FFFF0080}Rank {:icon rank-c} recipe materials cut by half!{:reset}
+    
+    Items in Creations can be synthesized using
+    
+    only half the materials!"
+
+- id: 0x4063
+  en: "{:color #FFFF0080}Rank {:icon rank-b} recipe materials cut by half!{:reset}
+    
+    Items in Creations can be synthesized using
+    
+    only half the materials!"
+
+- id: 0x4064
+  en: "{:color #FFFF0080}Rank {:icon rank-a} recipe materials cut by half!{:reset}
+    
+    Items in Creations can be synthesized using
+    
+    only half the materials!"
+
+- id: 0x4066
+  en: "{:color #FFFF0080}Rank {:icon rank-s} recipe materials cut by half!{:reset}
+    
+    Items in Creations can be synthesized using
+    
+    only half the materials!"
+
+- id: 0x4F68
+  en: "Guards enemy attacks with Block
+    
+    by pressing {:icon dynamic-square} during a combo."
+
+- id: 0x50CB
+  en: "Get 50 types of materials."
+
+- id: 0x50CC
+  en: "Get 55 types of materials."
+
+- id: 0x50CD
+  en: "Obtain all {:icon remembrance}remembrance materials."
+
+- id: 0x50CE
+  en: "Obtain all {:icon tranquil}tranquility materials."
+
+# Armor
+
+- id: 0x3A6D
+  en: "Firaza Bangle"
+
+- id: 0x3A77
+  en: "Blizzaza Armlet"
+
+- id: 0x3A81
+  en: "Thundaza Trinket"
+
+# Accessories
+
+- id: 0x3A35
+  en: "Soldier's Earring"
+
+- id: 0x3A37
+  en: "Fencer's Earring"
+
+- id: 0x3A39
+  en: "Mage's Earring"
+
+- id: 0x3A3B
+  en: "Slayer's Earring"
+
+# Re:Fined/Re:Freshed
+
+- id: 0x3787
+  en: "Encounter Boost"
