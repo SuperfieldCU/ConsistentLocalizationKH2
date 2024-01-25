@@ -626,8 +626,7 @@
     materials by half."
 
 - id: 0x405F
-  en: "{:color #FFFF0080}Can use {:icon gem-bright}soothing & {:icon gem-energy}wellspring materials!
-
+  en: "{:color #FFFF0080}Can use {:icon gem-bright}soothing & {:icon gem-energy}wellspring materials!{:reset}
 
     Use when synthesizing items!"
 
@@ -709,7 +708,7 @@
 - id: 0x3A3B
   en: "Slayer's Earring"
 
-# Re:Fined/Re:Freshed
+# Re:Fined
 
 - id: 0x3787
   en: "Encounter Boost"

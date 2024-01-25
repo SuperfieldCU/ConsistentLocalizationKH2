@@ -19,7 +19,6 @@
 
 - id: 0x4B6A
   en: "\"Master\" Genie/Ars Arcanum"
-#Should be quotation marks around Master
 
 - id: 0x4B6B
   en: "Attack flow
@@ -47,7 +46,6 @@
 
 - id: 0x4B6C
   en: "\"Final\" Genie/Ragnarok"
-#Should be quotation marks around Final
 
 - id: 0x4B6D
   en: "Attack flow
