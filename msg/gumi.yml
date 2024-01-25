@@ -2,188 +2,166 @@
 
 - id: 0x18AC
   en: "Material Gummies can be modified
-    
+
     to meet your design needs.
-    
+
     Use Aero Gummies to increase the
-    
-    Ship's rolling."
-#Should have a ´ instead of a standard apostrophe
+
+    ShipÂ´s rolling."
 
 - id: 0x18E0
   en: "Add aerodynamics to a Material Gummi
-    
-    to increase the Ship's rolling."
-#Should have a ´ instead of a standard apostrophe
+
+    to increase the ShipÂ´s rolling."
 
 - id: 0x18F4
   en: "Place Deco-Gummies that increase the
-    
-    Gummi Ship's rolling."
-#Should have a ´ instead of a standard apostrophe
+
+    Gummi ShipÂ´s rolling."
 
 - id: 0x191C
   en: "Rolling"
 
 - id: 0x3C5A
-  en: "Increases the Gummi Ship's
-    
+  en: "Increases the Gummi ShipÂ´s
+
     rolling."
-#Should have a ´ instead of a standard apostrophe
 
 - id: 0x3C5B
-  en: "Increases the Gummi Ship's
-    
+  en: "Increases the Gummi ShipÂ´s
+
     rolling."
-#Should have a ´ instead of a standard apostrophe
 
 - id: 0x3C5C
-  en: "Increases the Gummi Ship's
-    
+  en: "Increases the Gummi ShipÂ´s
+
     rolling."
-#Should have a ´ instead of a standard apostrophe
 
 - id: 0x3C5D
-  en: "Increases the Gummi Ship's
-    
+  en: "Increases the Gummi ShipÂ´s
+
     rolling."
-#Should have a ´ instead of a standard apostrophe
 
 - id: 0x3C5E
-  en: "Increases the Gummi Ship's
-    
+  en: "Increases the Gummi ShipÂ´s
+
     rolling."
-#Should have a ´ instead of a standard apostrophe
 
 - id: 0x3C5F
-  en: "Increases the Gummi Ship's
-    
+  en: "Increases the Gummi ShipÂ´s
+
     rolling."
-#Should have a ´ instead of a standard apostrophe
 
 - id: 0x3C60
-  en: "Increases the Gummi Ship's
-    
+  en: "Increases the Gummi ShipÂ´s
+
     rolling."
-#Should have a ´ instead of a standard apostrophe
 
 - id: 0x3C61
-  en: "Increases the Gummi Ship's
-    
+  en: "Increases the Gummi ShipÂ´s
+
     rolling."
-#Should have a ´ instead of a standard apostrophe
 
 - id: 0x3C62
-  en: "Increases the Gummi Ship's
-    
+  en: "Increases the Gummi ShipÂ´s
+
     rolling."
-#Should have a ´ instead of a standard apostrophe
 
 - id: 0x3C6F
-  en: "Increases the Gummi Ship's
-    
+  en: "Increases the Gummi ShipÂ´s
+
     rolling."
 
 - id: 0x4101
   en: "Material Gummies are mainly used to
-    
+
     create the body of a Gummi Ship. They
-    
-    can be reshaped before placement
-    
-    
-    
+
+    can be reshaped before placement.
+
+
     {:color #00F0F080}- Parameters are important, too!{:reset}
-    
+
     The parameters of your Gummi Ship will
-    
+
     change depending on the shape of the
-    
+
     Material Gummies.
-    
-    
-    
+
+
     {:color #8080F080}Bevelled{:reset}/{:color #8080F080}Curved{:reset}/{:color #8080F080}Pipe Gummies{:reset} -
-    
+
     {:color #F0F00080}Increase HP{:reset}
-    
+
     {:color #8080F080}Aero Gummies{:reset} - {:color #F0F00080}Increase rolling{:reset}
-    
+
     {:color #8080F080}Lump Gummies{:reset} -  {:color #F0F00080}To simplify the process
-    
+
     of building a Gummi Ship, the Bevelled,
-    
+
     Curved, and Pipe Gummies are lumped
-    
+
     together.{:reset}"
-#Should have a ´ instead of a standard apostrophe
 #This spills over the page - stock behavior?
 
 - id: 0x4109
   en: "Movement Gummies have the power to add
-    
+
     movement to your Gummi Ship.
-    
-    
-    
+
+
     {:color #8080F080}Engine Gummies{:reset} {:color #F0F00080}expend power{:reset} but
-    
-    increase the Gummi Ship's speed.
-    
-    
-    
-    {:color #8080F080}Wing Gummies{:reset} increase the Gummi Ship's
-    
+
+    increase the Gummi ShipÂ´s speed.
+
+
+    {:color #8080F080}Wing Gummies{:reset} increase the Gummi ShipÂ´s
+
     {:color #F0F00080}rolling{:reset}.
-    
-    
-    
+
+
     {:color #00F0F080}- With increased rolling...{:reset}
-    
+
     The Gummi Ship can execute a {:color #F0F00080}rolling
-    
+
     maneuver{:reset} with {:icon dynamic-circle}. With this, you can
-    
+
     move quickly to avoid various enemy
-    
+
     attacks."
-#Should have a ´ instead of a standard apostrophe
 
 - id: 0x486F
   en: "Gummi blocks have various parameters,
-    
+
     which determine the functionality of
-    
+
     your Gummi Ship.
-    
-    
-    
+
+
     {:color #8080F080}HP{:reset} - The higher the HP, the more damage
-    
+
     {:reset}  the Ship can endure.
-    
+
     {:color #8080F080}Offense{:reset} - Represents the offensive
-    
+
     {:reset}  power of each Gummi.
-    
+
     {:color #8080F080}Power{:reset} - The higher the power, the higher
-    
-    {:reset}  the Ship's offensive power.
-    
+
+    {:reset}  the ShipÂ´s offensive power.
+
     {:color #8080F080}Speed{:reset} - Represents the movement speed
-    
+
     {:reset}  of the Gummi Ship.
-    
+
     {:color #8080F080}Rolling{:reset} - Increases the effectiveness of
-    
-    {:reset}  the Gummi Ship's rolling maneuver."
-#Should have a ´ instead of a standard apostrophe
+
+    {:reset}  the Gummi ShipÂ´s rolling maneuver."
 
 - id: 0x502A
-  en: "Increases the Gummi Ship's
-    
+  en: "Increases the Gummi ShipÂ´s
+
     rolling."
-#Should have a ´ instead of a standard apostrophe
 
 # Gummi Types
 
@@ -207,29 +185,23 @@
   en: "Treasure Magnet"
 
 - id: 0x5028
-  en: "Increases the Gummi Ship's
-    
+  en: "Increases the Gummi ShipÂ´s
+
     speed."
-#Should have a ´ instead of a standard apostrophe
 
 - id: 0x5029
-  en: "Increases the Gummi Ship's
-    
+  en: "Increases the Gummi ShipÂ´s
+
     power."
-#Should have a ´ instead of a standard apostrophe
 
 - id: 0x502B
-  en: "Increases the Gummi Ship's HP."
-#Should have a ´ instead of a standard apostrophe
+  en: "Increases the Gummi ShipÂ´s HP."
 
 - id: 0x502C
-  en: "Increases the Gummi Ship's HP."
-#Should have a ´ instead of a standard apostrophe
+  en: "Increases the Gummi ShipÂ´s HP."
 
 - id: 0x502D
-  en: "Increases the Gummi Ship's HP."
-#Should have a ´ instead of a standard apostrophe
+  en: "Increases the Gummi ShipÂ´s HP."
 
 - id: 0x502E
-  en: "Increases the Gummi Ship's HP."
-#Should have a ´ instead of a standard apostrophe
+  en: "Increases the Gummi ShipÂ´s HP."

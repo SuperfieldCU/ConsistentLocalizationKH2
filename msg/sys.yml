@@ -22,7 +22,7 @@
 
 - id: 0x066D
   en: "Guards and shoots back enemy attacks
-    
+
     using a parrying action with {:icon dynamic-square}."
 
 - id: 0x1E60
@@ -48,7 +48,7 @@
 
 - id: 0x3998
   en: "Counterattacks nearby enemies with
-    
+
     Attack while performing Block."
 
 - id: 0x0654
@@ -80,7 +80,7 @@
 
 - id: 0x4F66
   en: "Unleashes Zantetsuken by selecting
-    
+
     Attack while blocking."
 
 - id: 0x3BF0
@@ -167,42 +167,42 @@
 
 - id: 0x3AB0
   en: "{:width 90}A gem fragment filled with fire.
-    
+
     A very common ingredient of item synthesis."
 
 - id: 0x3AB6
   en: "{:width 90}A mysterious crystal abundant with fire.
-    
+
     A very rare ingredient of item synthesis."
 
 - id: 0x3B6A
   en: "{:width 90}A gem fragment filled with ice.
-    
+
     A very common ingredient of item synthesis."
 
 - id: 0x3B70
   en: "{:width 90}A mysterious crystal abundant with ice.
-    
+
     A very rare ingredient of item synthesis."
 
 - id: 0x3AC0
   en: "{:width 90}A gem fragment filled with lightning.
-    
+
     A very common ingredient of item synthesis."
 
 - id: 0x3AC6
   en: "{:width 90}A mysterious crystal abundant with lightning.
-    
+
     A very rare ingredient of item synthesis."
 
 - id: 0x3AD0
   en: "{:width 90}A gem fragment filled with brilliance.
-    
+
     A very common ingredient of item synthesis."
 
 - id: 0x3AD6
   en: "{:width 90}A mysterious crystal abundant with brilliance.
-    
+
     A very rare ingredient of item synthesis."
 
 - id: 0x3AC7
@@ -210,9 +210,9 @@
 
 - id: 0x3AC8
   en: "{:width 90}A gem fragment filled with power.
-    
+
     A very common ingredient of item synthesis.
-    
+
     Some call it a Power Shard."
 
 - id: 0x3AC9
@@ -220,9 +220,9 @@
 
 - id: 0x3ACA
   en: "A stone filled with power.
-    
+
     A common ingredient of item synthesis.
-    
+
     Some call it a Power Stone."
 
 - id: 0x3ACB
@@ -230,9 +230,9 @@
 
 - id: 0x3ACC
   en: "A gem abundant with power.
-    
+
     A rare ingredient of item synthesis.
-    
+
     Some call it a Power Gem."
 
 - id: 0x3ACD
@@ -240,9 +240,9 @@
 
 - id: 0x3ACE
   en: "{:width 90}A mysterious crystal abundant with power.
-    
+
     A very rare ingredient of item synthesis.
-    
+
     Some call it a Power Crystal."
 
 - id: 0x39E7
@@ -250,9 +250,9 @@
 
 - id: 0x39E8
   en: "{:width 90}A gem fragment filled with darkness.
-    
+
     A very common ingredient of item synthesis.
-    
+
     Some call it a Dark Shard."
 
 - id: 0x39E9
@@ -260,9 +260,9 @@
 
 - id: 0x39EA
   en: "A stone filled with darkness.
-    
+
     A common ingredient of item synthesis.
-    
+
     Some call it a Dark Stone."
 
 - id: 0x39EB
@@ -270,9 +270,9 @@
 
 - id: 0x39EC
   en: "A gem abundant with darkness.
-    
+
     A rare ingredient of item synthesis.
-    
+
     Some call it a Dark Gem."
 
 - id: 0x39ED
@@ -280,9 +280,9 @@
 
 - id: 0x39EE
   en: "{:width 90}A mysterious crystal abundant with darkness.
-    
+
     A very rare ingredient of item synthesis.
-    
+
     Some call it a Dark Crystal."
 
 - id: 0x3AD7
@@ -290,9 +290,9 @@
 
 - id: 0x3AD8
   en: "{:width 90}A gem fragment filled with ambiguity.
-    
+
     A very common ingredient of item synthesis.
-    
+
     Some call it a Dense Shard."
 
 - id: 0x3AD9
@@ -300,9 +300,9 @@
 
 - id: 0x3ADA
   en: "A stone filled with ambiguity.
-    
+
     A common ingredient of item synthesis.
-    
+
     Some call it a Dense Stone."
 
 - id: 0x3ADB
@@ -310,9 +310,9 @@
 
 - id: 0x3ADC
   en: "A gem filled with ambiguity.
-    
+
     A rare ingredient of item synthesis.
-    
+
     Some call it a Dense Gem."
 
 - id: 0x3ADD
@@ -320,29 +320,29 @@
 
 - id: 0x3ADE
   en: "{:width 90}A mysterious crystal filled with ambiguity.
-    
+
     A very rare ingredient of item synthesis.
-    
+
     Some call it a Dense Crystal."
 
 - id: 0x3AE0
   en: "{:width 90}A gem fragment filled with twilight.
-    
+
     A very common ingredient of item synthesis."
 
 - id: 0x3AE6
   en: "{:width 90}A mysterious crystal filled with twilight.
-    
+
     A very rare ingredient of item synthesis."
 
 - id: 0x3AE8
   en: "{:width 90}A fragment of mythril ore.
-    
+
     A very common ingredient of item synthesis."
 
 - id: 0x3AEE
   en: "{:width 90}A mysterious crystal made from mythril ore.
-    
+
     A very rare ingredient of item synthesis."
 
 - id: 0x3AEF
@@ -350,9 +350,9 @@
 
 - id: 0x3AF0
   en: "{:width 90}A gem fragment filled with vitality.
-    
+
     A very common ingredient of item synthesis.
-    
+
     Some call it a Bright Shard."
 
 - id: 0x3AF1
@@ -360,9 +360,9 @@
 
 - id: 0x3AF2
   en: "A stone filled with vitality.
-    
+
     A common ingredient of item synthesis.
-    
+
     Some call it a Bright Stone."
 
 - id: 0x3AF3
@@ -370,9 +370,9 @@
 
 - id: 0x3AF4
   en: "A gem abundant with vitality.
-    
+
     A rare ingredient of item synthesis.
-    
+
     Some call it a Bright Gem."
 
 - id: 0x3AF5
@@ -380,9 +380,9 @@
 
 - id: 0x3AF6
   en: "{:width 90}A mysterious crystal abundant with vitality.
-    
+
     A very rare ingredient of item synthesis.
-    
+
     Some call it a Bright Crystal."
 
 - id: 0x3AF7
@@ -390,9 +390,9 @@
 
 - id: 0x3AF8
   en: "{:width 90}A gem fragment filled with courage.
-    
+
     A very common ingredient of item synthesis.
-    
+
     Some call it a Energy Shard."
 
 - id: 0x3AF9
@@ -400,9 +400,9 @@
 
 - id: 0x3AFA
   en: "A stone filled with courage.
-    
+
     A common ingredient of item synthesis.
-    
+
     Some call it a Energy Stone."
 
 - id: 0x3AFB
@@ -410,9 +410,9 @@
 
 - id: 0x3AFC
   en: "A gem abundant with courage.
-    
+
     A rare ingredient of item synthesis.
-    
+
     Some call it a Energy Gem."
 
 - id: 0x3AFD
@@ -420,9 +420,9 @@
 
 - id: 0x3AFE
   en: "{:width 90}A mysterious crystal abundant with courage.
-    
+
     A very rare ingredient of item synthesis.
-    
+
     Some call it a Energy Crystal."
 
 - id: 0x3AFF
@@ -430,9 +430,9 @@
 
 - id: 0x3B00
   en: "{:width 90}A gem fragment filled with longing.
-    
+
     A very common ingredient of item synthesis.
-    
+
     Some call it a Serenity Shard."
 
 - id: 0x3B01
@@ -440,9 +440,9 @@
 
 - id: 0x3B02
   en: "A stone filled with longing.
-    
+
     A common ingredient of item synthesis.
-    
+
     Some call it a Serenity Stone."
 
 - id: 0x3B03
@@ -450,9 +450,9 @@
 
 - id: 0x3B04
   en: "A gem filled with longing.
-    
+
     A rare ingredient of item synthesis.
-    
+
     Some call it a Serenity Gem."
 
 - id: 0x3B05
@@ -460,29 +460,29 @@
 
 - id: 0x3B06
   en: "{:width 90}A mysterious crystal filled with longing.
-    
+
     A very rare ingredient of item synthesis.
-    
+
     Some call it a Serenity Crystal."
 
 - id: 0x4EE0
   en: "{:width 90}A gem shard filled with remembrance.
-    
+
     A very common ingredient of item synthesis."
 
 - id: 0x4EE6
   en: "{:width 90}A mysterious crystal abundant with remembrance.
-    
+
     A very rare ingredient of item synthesis."
 
 - id: 0x4EE8
   en: "{:width 90}A gem shard filled with tranquility.
-    
+
     A very common ingredient of item synthesis."
 
 - id: 0x4EEE
   en: "{:width 90}A mysterious crystal abundant with tranquility.
-    
+
     A very rare ingredient of item synthesis."
 
 # Menus
@@ -600,43 +600,40 @@
 
 - id: 0x3EF4
   en: "{:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
-    
-    
-    
+
+
     {:color #FFFF0080}{:icon gem-serenity}Hungry{:reset} materials
-    
+
     are needed to synthesize this item.
-    
+
     Check {:color #FFFF0080}{:icon gem-serenity}hungry{:reset} materials to continue."
 
 - id: 0x3EF5
   en: "{:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
-    
-    
-    
+
+
     Not enough materials. Synthesis can be
-    
+
     performed by checking {:color #FFFF0080}{:icon gem-energy}wellspring{:reset} materials.
-    
+
     Please check {:color #FFFF0080}{:icon gem-energy}wellspring{:reset} materials to
-    
+
     continue."
 
 - id: 0x3F1F
   en: "Lessens necessary amount of 
-    
+
     materials by half."
 
 - id: 0x405F
   en: "{:color #FFFF0080}Can use {:icon gem-bright}soothing & {:icon gem-energy}wellspring materials!
-    
-    
-    
+
+
     Use when synthesizing items!"
 
 - id: 0x4060
   en: "{:color #FFFF0080}Can use {:icon gem-serenity}hungry materials!{:reset}
-    
+
     Use in old creations found in Creations!"
 
 - id: 0x4061
@@ -644,35 +641,35 @@
 
 - id: 0x4062
   en: "{:color #FFFF0080}Rank {:icon rank-c} recipe materials cut by half!{:reset}
-    
+
     Items in Creations can be synthesized using
-    
+
     only half the materials!"
 
 - id: 0x4063
   en: "{:color #FFFF0080}Rank {:icon rank-b} recipe materials cut by half!{:reset}
-    
+
     Items in Creations can be synthesized using
-    
+
     only half the materials!"
 
 - id: 0x4064
   en: "{:color #FFFF0080}Rank {:icon rank-a} recipe materials cut by half!{:reset}
-    
+
     Items in Creations can be synthesized using
-    
+
     only half the materials!"
 
 - id: 0x4066
   en: "{:color #FFFF0080}Rank {:icon rank-s} recipe materials cut by half!{:reset}
-    
+
     Items in Creations can be synthesized using
-    
+
     only half the materials!"
 
 - id: 0x4F68
   en: "Guards enemy attacks with Block
-    
+
     by pressing {:icon dynamic-square} during a combo."
 
 - id: 0x50CB
