@@ -114,9 +114,9 @@ Journal entries for the Genie limits were adjusted to account for these changes
 * Serenity Crystal -> Hungry Crystal
   * Mentions of "contentment" in descriptions were changed to "longing"
 
-All synthesis items whose names were changed had their original names added to their description
+All synthesis items whose names were changed had their original names added to their description.
 
-Most synthesis items had their descriptions altered, even if their names didn't change, to enforce a consistent spacing scheme
+Most synthesis items had their descriptions altered, even if their names didn't change, to enforce a consistent spacing scheme.
 
 ### Menus
 References to synthesis items were changed to account for the above name changes
@@ -147,5 +147,5 @@ References to synthesis items were changed to account for the above name changes
 * Large Shell/G -> Large Wall/G
 * Infinity/G -> Ragnarok/G
 
-### Re:Fined/Re:Freshed
+### Re:Fined
 * Encounter Plus -> Encounter Boost
