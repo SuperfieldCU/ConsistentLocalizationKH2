@@ -9,7 +9,7 @@ Mod can be installed using the OpenKH Mod Manager. Simply open the Mod Manager, 
 This mod had a small change made specifically for the [KH Re:Fined](https://github.com/KH-ReFined/KH-ReFined) mod by TopazTK (also known as Re:Fixed and Re:Freshed). If you aren't using that mod, ignore this paragraph. If you are, be sure to install this mod ABOVE the [KH-ReFined/KH2-MAIN](https://github.com/KH-ReFined/KH2-MAIN) patch.
 
 ## Links
-The games in the Kingdom Hearts HD I.5+II.5 ReMIX collection are supported by the OpenKH Mod Manager and can install mods directly via GitHub repos. The Consistent Localization mods for these games can be installed either through GitHub or with patch files downloaded from Nexus Mods, and (other than KH2) should produce identical results regardless of which is used (although using the GitHub version is generally recommended). The remainder of the mod series cannot be directly installed via GitHub repos and there's not yet a compelling reason to host them anywhere but on Nexus Mods.
+The four playable games in the Kingdom Hearts HD I.5+II.5 ReMIX collection and Dream Drop Distance HD are supported by the OpenKH Mod Manager and can install mods directly via GitHub repos. This means that the Consistent Localization mods for these games can be installed either through GitHub or with patch files downloaded from Nexus Mods, and (other than KH2) should produce identical results regardless of which is used (although using the GitHub version is generally recommended). The remainder of the mod series cannot be directly installed via GitHub repos and there's not yet a compelling reason to host them anywhere but on Nexus Mods.
 
 | Mod | GitHub | Nexus Mods |
 | --- | --- | --- |
@@ -17,7 +17,7 @@ The games in the Kingdom Hearts HD I.5+II.5 ReMIX collection are supported by th
 | Consistent Localization Re:Chain of Memories | [GitHub](https://github.com/SuperfieldCU/ConsistentLocalizationRecom) | [Nexus Mods](https://www.nexusmods.com/kingdomheartsrechainofmemories/mods/20/) |
 | Consistent Localization II Final Mix | [GitHub](https://github.com/SuperfieldCU/ConsistentLocalizationKH2) | [Nexus Mods](https://www.nexusmods.com/kingdomhearts2finalmix/mods/180/) (NOT RECOMMENDED) |
 | Consistent Localization Birth by Sleep Final Mix | [GitHub](https://github.com/SuperfieldCU/ConsistentLocalizationBBS) | [Nexus Mods](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/35/) |
-| Consistent Localization Dream Drop Distance HD | | [Nexus Mods](https://www.nexusmods.com/kingdomheartsdreamdropdistancehd/mods/30/) |
+| Consistent Localization Dream Drop Distance HD | [GitHub](https://github.com/SuperfieldCU/ConsistentLocalizationDDD) | [Nexus Mods](https://www.nexusmods.com/kingdomheartsdreamdropdistancehd/mods/30/) |
 | Consistent Localization 0.2 Birth by Sleep -A fragmentary passage- | | [Nexus Mods](https://www.nexusmods.com/kingdomhearts02birthbysleepafragmentarypassage/mods/20/) |
 | Consistent Localization III Re𝄌Mind | | [Nexus Mods](https://www.nexusmods.com/kingdomhearts3/mods/2029/) |
 
@@ -147,6 +147,7 @@ References to synthesis items were changed to account for the above name changes
 * Shell/G -> Wall/G
 * Large Shell/G -> Large Wall/G
 * Infinity/G -> Ragnarok/G
+* Wheel/G -> Tire/G
 
 ### Re:Fined
 * Encounter Plus -> Encounter Boost

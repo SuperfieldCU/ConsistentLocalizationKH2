@@ -102,7 +102,6 @@
     Curved, and Pipe Gummies are lumped
 
     together.{:reset}"
-#This spills over the page - stock behavior?
 
 - id: 0x4109
   en: "Movement Gummies have the power to add
@@ -179,10 +178,18 @@
 - id: 0x187D
   en: "Ragnarok/G"
 
+- id: 0x1880
+  en: "Tire/G"
+
 # Other
 
 - id: 0x189F
   en: "Treasure Magnet"
+
+- id: 0x4F96
+  en: "Fly a Gummi Ship set with {:color #F0F00080}8 or more{:reset}
+
+    {:color #8080F080}Tire Gummies{:reset}!"
 
 - id: 0x5028
   en: "Increases the Gummi Ship´s
