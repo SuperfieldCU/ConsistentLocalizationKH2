@@ -25,95 +25,95 @@ The four playable games in the Kingdom Hearts HD I.5+II.5 ReMIX collection and D
 The following is a brief overview of text changes made. This is as exhaustive as I could make it without being overly specific or repetitive:
 
 ### Reaction Commands
-* Move center -> Move Center
-* Firagun -> Firaza
-* Blizzagun -> Blizzaza
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Move center | Move Center | |
+| Firagun | Firaza | |
+| Blizzagun | Blizzaza | |
 
 ### Abilities
-* Guard -> Block
-  * Description was adjusted to account for this change
-* Upper Slash -> Rising Slash
-* Combo Upper -> Rising Combo
-* Retaliating Slash -> Payback Slash
-* Retaliating Smash -> Payback Smash
-* Slide Dash -> Sliding Dash
-* Guard Break -> Stride Break
-* Counterguard -> Counter Strike
-  * Description was adjusted
-* Quick Run LV1 -> Air Slide LV1
-* Quick Run LV2 -> Air Slide LV2
-* Quick Run LV3 -> Air Slide LV3
-* Quick Run MAX -> Air Slide MAX
-* Dodge Roll LV 1 -> Dodge Roll LV1
-* Dodge Roll LV 2 -> Dodge Roll LV2
-* Dodge Roll LV 3 -> Dodge Roll LV3
-* Hurricane Period -> Hurricane Blast
-* Zantetsu Counter -> Counter Zantetsu
-  * Description was adjusted
-* No Experience -> EXP Zero
-* Negative Combo -> Combo Minus
-* Damage Drive -> Drive Syphon
-* Experience Boost -> EXP Chance
-* Draw -> Treasure Magnet
-* Lucky Lucky -> Lucky Strike
-* MP Rage -> MP Syphon
-* Furious Shout -> Furious Bellow
-* Ferocious Rush -> Ferocious Lunge
-* Applause, Applause -> Applause, Please!
-* Bone Smash -> Bone Crusher
-* Protectra -> Protera
-* Protectga -> Protega
-* Pearl -> Faith
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Guard | Block | Description was adjusted to account for this change |
+| Upper Slash | Rising Slash | |
+| Combo Upper | Rising Combo | |
+| Retaliating Slash | Payback Slash | |
+| Retaliating Smash | Payback Smash | |
+| Slide Dash | Sliding Dash | |
+| Guard Break | Stride Break | |
+| Counterguard | Counter Strike | Description was adjusted |
+| Quick Run LV1 | Air Slide LV1 | |
+| Quick Run LV2 | Air Slide LV2 | |
+| Quick Run LV3 | Air Slide LV3 | |
+| Quick Run MAX | Air Slide MAX | |
+| Dodge Roll LV 1 | Dodge Roll LV1 | |
+| Dodge Roll LV 2 | Dodge Roll LV2 | |
+| Dodge Roll LV 3 | Dodge Roll LV3 | |
+| Hurricane Period | Hurricane Blast | |
+| Zantetsu Counter | Counter Zantetsu | Description was adjusted |
+| No Experience | EXP Zero | |
+| Negative Combo | Combo Minus | |
+| Damage Drive | Drive Syphon | |
+| Experience Boost | EXP Chance | |
+| Draw | Treasure Magnet | |
+| Lucky Lucky | Lucky Strike | |
+| MP Rage | MP Syphon | |
+| Furious Shout | Furious Bellow | |
+| Ferocious Rush | Ferocious Lunge | |
+| Applause, Applause | Applause, Please! | |
+| Bone Smash | Bone Crusher | |
+| Protectra | Protera | |
+| Protectga | Protega | |
+| Pearl | Faith | |
 
 ### Limits (Limit Form)
-* Sonic Rave -> Sonic Blade
-  * Finish -> Blast
-    * This is the final Reaction Command of the limit
-* Last Arcanum -> Ars Arcanum
-  * The End -> Finish
-    * This is the final Reaction Command of the limit
-* Infinity -> Ragnarok
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Sonic Rave | Sonic Blade | |
+| Finish | Blast | This is the final Reaction Command of the Sonic Blade limit |
+| Last Arcanum | Ars Arcanum | |
+| The End | Finish | This is the final Reaction Command of the Ars Arcanum limit |
+| Infinity | Ragnarok | |
 
 ### Limits (Genie)
 Journal entries for the Genie limits were adjusted to account for these changes.
-* Sonic Rave -> Sonic Blade
-* Final Arcana -> Ars Arcanum
-  * Arcana -> Arcanum
-    * This is the command used to activate the limit
-* Infinity -> Ragnarok
-  * Infinity -> Ragnarok
-    * This is the command used to activate the limit
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Sonic Rave | Sonic Blade | |
+| Final Arcana | Ars Arcanum | |
+| Arcana | Arcanum | This is the command used to activate the Ars Arcanum limit |
+| Infinity | Ragnarok | |
+| Infinity | Ragnarok | This is the command used to activate the Ragnarok limit |
 
 ### Items
-* Power Boost -> Strength Boost
-* High Drive Recovery -> Hi-Drive Recovery
-* Power Shard -> Pulsing Shard
-* Power Stone -> Pulsing Stone
-* Power Gem -> Pulsing Gem
-* Power Crystal -> Pulsing Crystal
-* Dark Shard -> Writhing Shard
-* Dark Stone -> Writhing Stone
-* Dark Gem -> Writhing Gem
-* Dark Crystal -> Writhing Crystal
-* Dense Shard -> Betwixt Shard
-* Dense Stone -> Betwixt Stone
-* Dense Gem -> Betwixt Gem
-* Dense Crystal -> Betwixt Crystal
-* Bright Shard -> Soothing Shard
-* Bright Stone -> Soothing Stone
-* Bright Gem -> Soothing Gem
-* Bright Crystal -> Soothing Crystal
-  * Mentions of "brightness" in descriptions were changed to "vitality"
-* Energy Shard -> Wellspring Shard
-* Energy Stone -> Wellspring Stone
-* Energy Gem -> Wellspring Gem
-* Energy Crystal -> Wellspring Crystal
-  * Mentions of "energy" in descriptions were changed to "courage"
-* Serenity Shard -> Hungry Shard
-* Serenity Stone -> Hungry Stone
-* Serenity Gem -> Hungry Gem
-* Serenity Crystal -> Hungry Crystal
-  * Mentions of "contentment" in descriptions were changed to "longing"
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Power Boost | Strength Boost | |
+| High Drive Recovery | Hi-Drive Recovery | |
+| Power Shard | Pulsing Shard | |
+| Power Stone | Pulsing Stone | |
+| Power Gem | Pulsing Gem | |
+| Power Crystal | Pulsing Crystal | |
+| Dark Shard | Writhing Shard | |
+| Dark Stone | Writhing Stone | |
+| Dark Gem | Writhing Gem | |
+| Dark Crystal | Writhing Crystal | |
+| Dense Shard | Betwixt Shard | |
+| Dense Stone | Betwixt Stone | |
+| Dense Gem | Betwixt Gem | |
+| Dense Crystal | Betwixt Crystal | |
+| Bright Shard | Soothing Shard | Mentions of "brightness" in descriptions were changed to "vitality" |
+| Bright Stone | Soothing Stone | |
+| Bright Gem | Soothing Gem | |
+| Bright Crystal | Soothing Crystal | |
+| Energy Shard | Wellspring Shard | Mentions of "energy" in descriptions were changed to "courage" |
+| Energy Stone | Wellspring Stone | |
+| Energy Gem | Wellspring Gem | |
+| Energy Crystal | Wellspring Crystal | |
+| Serenity Shard | Hungry Shard | Mentions of "contentment" in descriptions were changed to "longing" |
+| Serenity Stone | Hungry Stone | |
+| Serenity Gem | Hungry Gem | |
+| Serenity Crystal | Hungry Crystal | |
 
 All synthesis items whose names were changed had their original names added to their description.
 
@@ -121,33 +121,43 @@ Most synthesis items had their descriptions altered, even if their names didn't 
 
 ### Menus
 References to synthesis items were changed to account for the above name changes.
-* Material -> material
-  * This mainly affects Material Lists and synthesis popup messages
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Material | material | This mainly affects Material Lists and synthesis popup messages |
 
 ### Armor
-* Firagun Bangle -> Firaza Bangle
-* Blizzagun Armlet -> Blizzaza Armlet
-* Thundagun Trinket -> Thundaza Trinket
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Firagun Bangle | Firaza Bangle | |
+| Blizzagun Armlet | Blizzaza Armlet | |
+| Thundagun Trinket | Thundaza Trinket | |
 
 ### Accessories
-* Soldier Earring -> Soldier's Earring
-* Fencer Earring -> Fencer's Earring
-* Mage Earring -> Mage's Earring
-* Slayer Earring -> Slayer's Earring
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Soldier Earring | Soldier's Earring | |
+| Fencer Earring | Fencer's Earring | |
+| Mage Earring | Mage's Earring | |
+| Slayer Earring | Slayer's Earring | |
 
 ### Enemies
-* Rabid Dog -> Bad Dog
-* Crescendo -> Loudmouth
-* Surveillance Robot -> Watcher
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Rabid Dog | Bad Dog | |
+| Crescendo | Loudmouth | |
+| Surveillance Robot | Watcher | |
 
 ### Gummi
-* Mobility -> Rolling
-  * Tutorial messages were adjusted to account for this change
-* Pipe/G -> Pipe Gummies
-* Shell/G -> Wall/G
-* Large Shell/G -> Large Wall/G
-* Infinity/G -> Ragnarok/G
-* Wheel/G -> Tire/G
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Mobility | Rolling | Tutorial messages were adjusted to account for this change |
+| Pipe/G | Pipe Gummies | |
+| Shell/G | Wall/G | |
+| Large Shell/G | Large Wall/G | |
+| Infinity/G | Ragnarok/G | |
+| Wheel/G | Tire/G | |
 
 ### Re:Fined
-* Encounter Plus -> Encounter Boost
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Encounter Plus | Encounter Boost | |
