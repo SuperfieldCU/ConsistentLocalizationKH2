@@ -6,7 +6,9 @@ This mod is part of a series intended to make subtle adjustments to the English 
 
 Mod can be installed using the OpenKH Mod Manager. Simply open the Mod Manager, click the green + button, type `SuperfieldCU/ConsistentLocalizationKH2` into the text box, then click `Install`.
 
-This mod had a small change made specifically for the [KH Re:Fined](https://github.com/KH-ReFined/KH-ReFined) mod by TopazTK (also known as Re:Fixed and Re:Freshed). If you aren't using that mod, ignore this paragraph. If you are, be sure to install this mod ABOVE the [KH-ReFined/KH2-MAIN](https://github.com/KH-ReFined/KH2-MAIN) patch.
+<ins>**Important note regarding Re:Fined:**</ins> This mod had a small change made specifically for the [KH Re:Fined](https://github.com/KH-ReFined/KH-ReFined) mod by TopazTK (also known as Re:Fixed and Re:Freshed). If you aren't using that mod, ignore this paragraph. If you are, ~~be sure to install this mod ABOVE it~~.
+
+**UPDATE 12/27/2025**: The Re:Fined mod for Kingdom Hearts II Final Mix is under continual development at this time. While installing Consistent Localization above Re:Fined *should* be safe in theory, this has not been the case in practice. A few bugs have been reported when placing this mod above Re:Fined that disappear when placed below it. The only reason to place Consistent Localization above Re:Fined in the first place is to change the name of "Encounter Plus" (an ability from the original Kingdom Hearts that Re:Fined adds to Kingdom Hearts II) to "Encounter Boost", and it's hardly worth it to destablize your game and potentially your save file for something as small as that. Until further notice, <ins>**do not install Consistent Localization above Re:Fined**</ins>.
 
 ## Links
 The four playable games in the Kingdom Hearts HD I.5+II.5 ReMIX collection and Dream Drop Distance HD are supported by the OpenKH Mod Manager and can install mods directly via GitHub repos. This means that the Consistent Localization mods for these games can be installed either through GitHub or with patch files downloaded from Nexus Mods, and (other than KH2) should produce identical results regardless of which is used (although using the GitHub version is generally recommended). The remainder of the mod series cannot be directly installed via GitHub repos and there's not yet a compelling reason to host them anywhere but on Nexus Mods.
@@ -160,4 +162,4 @@ References to synthesis items were changed to account for the above name changes
 ### Re:Fined
 | Stock | Modded | Notes |
 | --- | --- | --- |
-| Encounter Plus | Encounter Boost | |
+| Encounter Plus | Encounter Boost | See "Installation" section above for more information about how this mod interacts with Re:Fined. |
