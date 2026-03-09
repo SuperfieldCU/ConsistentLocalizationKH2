@@ -33,3 +33,13 @@ assets:
     source:
     - name: msg/jm.yml
       language: en
+
+- name: msg/us/eh.bar
+  method: binarc
+  source:
+  - name: eh
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/eh.yml
+      language: en

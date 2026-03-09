@@ -149,6 +149,11 @@ References to synthesis items were changed to account for the above name changes
 | Crescendo | Loudmouth | |
 | Surveillance Robot | Watcher | |
 
+### World Popups
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| The Silent Hero | The Taciturn Stalwart | Lexaeus' title as displayed at the Proof of Existence |
+
 ### Gummi
 | Stock | Modded | Notes |
 | --- | --- | --- |
